@@ -4,4 +4,4 @@ Pass in a numeric value (of any length) and this function will calculate the che
 For more information see here - http://en.wikipedia.org/wiki/Global_Trade_Item_Number
 
 
-Example: CalculateAndAppendCheckDigit(505582983239) returns 505582983239*9*
+Example: CalculateAndAppendCheckDigit(505582983239) returns 505582983239**9**
